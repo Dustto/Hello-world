@@ -1,2 +1,5 @@
 # Hello-world
-The Hello world project
+
+Hello, everyone:
+
+I'm a noob.
